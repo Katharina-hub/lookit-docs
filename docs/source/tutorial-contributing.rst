@@ -218,6 +218,7 @@ List of tutorial participants
 - Hannah Ruebeck (MIT)
 - Nina Griggs (University of British Columbia)
 - Virginia Morley (New York University)
+- Katharina Hierl (University of British Columbia)
 
 .. _Github issues overview:
 
